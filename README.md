@@ -1,7 +1,3 @@
----
-layout: default
-title: Home
----
 # Welcome to My Website!
 
 Hi, I'm **Biswarup Biswas**, Assistant Professor in Computational Mathematics at Mahindra University.  
